@@ -25,11 +25,13 @@ The recruiters post the jobs on the portal along with all the details and the jo
 * Apply for any job
 * View and update own profile
 
-&nbsb
+
 ## ER-Diagram: ![ER_Diagram](https://user-images.githubusercontent.com/47720774/125160271-a6d2a280-e199-11eb-8528-5f880a231fad.png)
 
-&nbsb
-## Snapshots
+
+## Snapshots:
+### Home Page  ![Screenshot (947)](https://user-images.githubusercontent.com/47720774/125160529-0a110480-e19b-11eb-918f-6b3332b26cdb.png)
+
 ### Admin Dashboard ![Screenshot (948)](https://user-images.githubusercontent.com/47720774/125160047-7b9b8380-e198-11eb-8872-0b51e047a18a.png)
 
 ### Recruiter Dashboard  ![Screenshot (950)](https://user-images.githubusercontent.com/47720774/125159960-252e4500-e198-11eb-9a4a-85d699d07c81.png)
