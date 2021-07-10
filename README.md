@@ -6,7 +6,5 @@
 * Recruiter Dashboard
 * User Dashboard
 
-#### The recruiters post the jobs on the portal along with all the details and the job seekers(users) apply for the same after getting registered to the portal.
-#### The admin manages the details of the recruiters as well as the users.
-#### The recruiters manage the details of the jobs and responses sent by the job seekers.
+#### The recruiters post the jobs on the portal along with all the details and the job seekers(users) apply for the same after getting registered to the portal.#### The admin manages the details of the recruiters as well as the users.#### The recruiters manage the details of the jobs and responses sent by the job seekers.
 
