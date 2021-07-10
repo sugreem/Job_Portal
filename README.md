@@ -1,5 +1,5 @@
 # Job_Portal
-##Tech Stack : JSP, Servlet, HTML, CSS, Bootstrap, Jquery, Javascript
+#Tech Stack : JSP, Servlet, HTML, CSS, Bootstrap, Jquery, Javascript
 
 ####Developed a web application that is used to post the jobs by the recruiters and apply for the jobs by the job seekers available on the portal. The application basically consists of three sections namely :
 *Admin Dashboard
